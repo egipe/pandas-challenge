@@ -1,0 +1,7 @@
+Sorry to include 2 files- I could not figure out how to rename the orignial file because I copied it for the format from the cyrptocurrency activity. I tried to copy and rename, but just included both to be safe.
+
+I enjoy pandas- this made sense to me! 
+
+Analysis of trends: 
+1. Smaller schools seem to have higher scores across the board for both reading and math, along with a greater percentage of students passing. 
+2. Charter schools have a higher overall percentage passing rate across the board, and are specifically notably greater in helping student pass math. 
